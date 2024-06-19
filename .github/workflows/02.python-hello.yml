@@ -18,17 +18,3 @@ jobs:
             - name: Run a py script
               run: python hello.py
           
-
-
-
-
-
-
-
-
-
-
-
-
-
-- uses: actions/checkout@v4
